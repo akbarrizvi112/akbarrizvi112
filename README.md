@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Akbar Rizvi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://img.freepik.com/free-vector/illustration-web-design-template_53876-26984.jpg?w=1060&t=st=1729525137~exp=1729525737~hmac=822844b23400269456343b47c61394a1564687164e9db47c8dbe5fe459acfea4" alt="" /> </p>
+<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*I3wyE-krkw3Ps9xgIJa-7g.png" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
