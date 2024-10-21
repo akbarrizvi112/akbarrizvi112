@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Akbar Rizvi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*I3wyE-krkw3Ps9xgIJa-7g.png" alt="" /> </p>
+<p align="left"> <img src="https://danielpuiatti.com/wp-content/uploads/2023/12/How-Artificial-Intelligence-AI-Can-Revolutionize-Web-Development-A-Comprehensive-Guide-1536x878.webp" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
