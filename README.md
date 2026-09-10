@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Akbar Rizvi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://danielpuiatti.com/wp-content/uploads/2023/12/How-Artificial-Intelligence-AI-Can-Revolutionize-Web-Development-A-Comprehensive-Guide-1536x878.webp" alt="" /> </p>
 
