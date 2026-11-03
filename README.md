@@ -21,14 +21,46 @@
 
 ### 👨‍💻 About Me
 
-```js
+```javascript
 const akbar = {
-  location:   "Pakistan 🇵🇰",
-  role:       "Full Stack Developer",
-  building:   "an AI-powered chatbot 🤖",
-  learning:   ["React.js", "Hooks", "State Management"],
-  askMeAbout: ["Web Dev", "Python", "Java", "Databases"],
-  funFact:    "I debug by explaining the problem out loud — it works 80% of the time."
+  name: "Akbar Rizvi",
+  location: "Pakistan 🇵🇰",
+  role: "Full-Stack Developer | Generative AI",
+
+  building: [
+    "AI-Powered Applications 🤖",
+    "Scalable Web Applications",
+    "Intelligent Digital Solutions"
+  ],
+
+  technologies: {
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "MUI"],
+    backend: ["Node.js", "Express.js", "Python"],
+    databases: ["MongoDB", "MySQL", "SQL"],
+    ai_ml: ["Generative AI", "LLMs", "LangChain", "RAG", "LangGraph"]
+  },
+
+  currentlyLearning: [
+    "Advanced React.js",
+    "React Hooks & State Management",
+    "Agentic AI",
+    "LLM Integration & RAG",
+    "AI Application Architecture"
+  ],
+
+  askMeAbout: [
+    "Full-Stack Development",
+    "React.js",
+    "Python & Java",
+    "Database Design",
+    "Generative AI",
+    "Building AI-Powered Products"
+  ],
+
+  mindset: "Turning ideas into impactful digital products 🚀",
+
+  funFact: "I debug by explaining the problem out loud.
+             Somehow, the solution appears 80% of the time. 😄"
 };
 ```
 
