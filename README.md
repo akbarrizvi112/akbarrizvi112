@@ -36,7 +36,7 @@ const akbar = {
   technologies: {
     frontend: ["HTML", "CSS", "JavaScript", "React.js", "MUI"],
     backend: ["Node.js", "Express.js", "Python"],
-    databases: ["MongoDB", "MySQL", "SQL"],
+    databases: ["MongoDB", "postgresql", "SQL"],
     ai_ml: ["Generative AI", "LLMs", "LangChain", "RAG", "LangGraph"]
   },
 
